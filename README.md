@@ -6,7 +6,7 @@ I am passionate about leveraging technology to solve real-world problems and mak
 Here's a glimpse into my journey:  
 
 
-## 🛠 Projects
+## 🛠 Project
 
 ### *Traffic Management*  
 
