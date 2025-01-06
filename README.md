@@ -1,85 +1,81 @@
-## *Portfolio*
+# 🌟 Portfolio  
 
-### Hello, I'm Shrushti Hulbutte 👋
+### Hello, I'm *Shrushti Hulbutte* 👋  
+🚀 Innovative Thinker | Problem Solver | Aspiring Technologist  
 
-I am passionate about leveraging technology to solve real-world problems and making an impact through creative solutions. 
-Here's a glimpse into my journey:  
+I am passionate about leveraging technology to solve real-world problems and making an impact through creative solutions. Here's a glimpse into my journey:  
 
-## 🛠 Project
+---
 
-### *Traffic Management*  
+## 🛠 *Projects*   
 
-*OVERVIEW:*  
+### 🏞 *Traffic management*  
+*Overview:*  
+Traffic Management System
+Our Traffic Management System is designed to streamline and digitize the essential functions of traffic management, catering to both administrative needs and user services.
 
-Efficient Traffic Flow:
-Implement advanced traffic signal control systems using real-time data to reduce congestion and improve traffic flow. Use AI algorithms to optimize signal timings based on current road conditions.
+Admin Section:
 
-Digital Complaint Filing:
-Provide citizens with a digital platform to file complaints regarding traffic violations, road conditions, or other issues. Ensure transparency and efficient tracking through unique complaint IDs and real-time status updates.
+Traffic Monitoring: Real-time tracking and management of traffic flow.
+Violation Management: Record and process traffic violations efficiently.
+Report Generation: Create detailed reports for traffic analysis and planning.
+Complaint Handling: Manage and resolve public complaints related to traffic issues.
+User Section:
 
-Automated Fine Management:
-Integrate an automated system to detect violations, issue fines, and manage payments online. Support multiple payment methods like credit/debit cards, UPI, and mobile wallets. Generate digital payment receipts instantly.
-
-Fancy Number Plate Allocation:
-Allow vehicle owners to apply for custom number plates online. Check plate availability, make payments, and track the allocation process through the platform.
-
-National Permit Management:
-Simplify the process of applying for national vehicle permits. Collect vehicle details, route information, and required documents digitally. Issue digital permits to reduce paperwork and enhance efficiency.
-
-User-Friendly Interface:
-Create accessible mobile and web applications for citizens to interact with traffic services. Include dashboards for traffic authorities to monitor, manage, and optimize traffic operations efficiently.
+License Application: Apply for new driving licenses and renewals.
+National Permit Services: Request and manage national permits for vehicles.
+Complaint Filing: Submit complaints regarding traffic violations or issues.
+RC Cancellation: Apply for the cancellation of vehicle registration certificates.
+Additional Services: Access various traffic-related services for convenience.
+This system ensures a more organized, accessible, and user-friendly approach to managing traffic-related tasks for both administrators and the general public.  
 
 *Technical Stack:*  
-
 - *Languages:* C++, Java  
-- *Algorithms:* Dijkstra’s, A*, KMP, Chain Hashing, Graph Traversal (DFS/BFS)
-- *Tools:* Graphs, DAA Optimization Techniques  
+- *Algorithms:* Chain Hashing, KMP, Graph Algorithms  
+- *Tools:* Hash Tables, Graphs, DAA Optimization Techniques  
 
 *Impact:*  
+- 💡 *Efficiency:* Faster, smarter booking management.  
+- 🧭 *Personalization:* Tailored destination recommendations.  
+- 🚗 *Navigation:* Reliable and optimal route planning.  
 
-- *Environmental Preservation:* Reduces air and noise pollution to protect Matheran’s natural environment and biodiversity.
-- *Enhanced Mobility:* Offers eco-friendly, congestion-free transportation, improving accessibility for residents and tourists.
-- *Economic Boost:* Drives eco-tourism growth and optimizes resource use for cost-effective, sustainable development.
-- *Health and Lifestyle Benefits:* Promotes cleaner air, quieter surroundings, and active lifestyles through non-motorized transport.
-- *Global Benchmark for Sustainability:* Establishes Matheran as a leading example of eco-conscious urban planning and tourism.
+---
 
 ## 🚀 *Skills*  
+- Proficient in *C++, **Java, and **Python*.  
+- Strong grasp of *Data Structures and Algorithms*.  
+- Expertise in problem-solving through advanced *DAA techniques*.  
+- Experience with *project development* and *team collaboration*.  
 
-- Proficient in C++, **Java, and **Python.  
-- Strong grasp of Data Structures and Algorithms.  
-- Expertise in problem-solving through advanced DAA techniques.  
-- Experience with project development and team collaboration.  
+---
 
+## 🌐 *Find Me Online*  
+- *GitHub:* [https://github.com/shrushti16/portfolioo.github.io)  
+- *LinkedIn:* [https://www.linkedin.com/in/shrushti-hulbutte-64336630b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
-## 🌐 *Find Me Online*
+---
 
-- [GitHub](https://github.com/shrushti16/portfolioo.github.io)
-- [LinkedIn](https://www.linkedin.com/in/shrushti-hulbutte-64336630b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+## 📚 *Portfolio Highlights*  
 
-## Portfolio Highlights
+### 🎯 *Topic:*  
+- *DAA (Design and Analysis of Algorithms)*  
+- Focus: Algorithmic Problem Solving for Tourism Solutions  
 
-### 🎯 *Topic:* 
-
-- DAA (Design and Analysis of Algorithms)  
-- Focus: Algorithmic Problem Solving for Pollution cities  
-
-### 📋 *Details:*
-
-- *Course Name:* Algorithms Lab 
+### 📋 *Details:*  
 - *Course Code:* 24ECAP202  
 - *Name:* Shrushti Hulbutte 
-- *SRN:* 02FE23BCI034 
-- *Course Instructor:* Priyanka Gavade  
-- *University:* KLE TECHNOLOGICAL UNIVERSITY
-- *Topic:* Pollution-Free City
+- *SRN:* 02FE23BCI034
+- *Course Instructor:* PRIYANKA GAVADE
+- *University:* KLE TECH  
 
 ---
 
 ## 🎨 *What Drives Me*  
 - 💻 Constantly exploring new technologies and applying them creatively.  
 - 🤝 Helping others grow while improving myself every day.  
-- 📈 Maintaining a stellar GPA of 9.0 in my B.E. in Computer Science & Engineering (AI) program.  
+- 🏆 Solved *100+ problems* on *LeetCode*, building a solid foundation in problem-solving.  
+- 📈 Maintaining a stellar *GPA of 9.0* in my *B.E. in Computer Science & Engineering (AI)* program.  
 
 ---
 
-This portfolio showcases my commitment to pushing boundaries and creatin
+This portfolio showcases my commitment to pushing boundaries and creating solutions that matter. Let’s connect and build something extraordinary together!
