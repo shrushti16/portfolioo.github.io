@@ -8,14 +8,27 @@ Here's a glimpse into my journey:
 
 ## 🛠 Projects
 
-### *Pollution-Free City*  
+### *Traffic Management*  
 
 *OVERVIEW:*  
 
-- *Efficient Navigation:* Provide optimized, eco-friendly transportation using electric vehicles, bicycles, and shuttles, supported by real-time traffic and route updates.
-- *Resource Management:* Dynamically allocate transportation and maintenance resources using advanced algorithms for peak efficiency.
-- *Environmental Monitoring:* Deploy IoT sensors for real-time tracking of air and noise pollution, enabling proactive measures.
-- *User-Friendly Interface:* Develop accessible apps and dashboards for tourists, residents, and administrators for seamless interaction.
+Efficient Traffic Flow:
+Implement advanced traffic signal control systems using real-time data to reduce congestion and improve traffic flow. Use AI algorithms to optimize signal timings based on current road conditions.
+
+Digital Complaint Filing:
+Provide citizens with a digital platform to file complaints regarding traffic violations, road conditions, or other issues. Ensure transparency and efficient tracking through unique complaint IDs and real-time status updates.
+
+Automated Fine Management:
+Integrate an automated system to detect violations, issue fines, and manage payments online. Support multiple payment methods like credit/debit cards, UPI, and mobile wallets. Generate digital payment receipts instantly.
+
+Fancy Number Plate Allocation:
+Allow vehicle owners to apply for custom number plates online. Check plate availability, make payments, and track the allocation process through the platform.
+
+National Permit Management:
+Simplify the process of applying for national vehicle permits. Collect vehicle details, route information, and required documents digitally. Issue digital permits to reduce paperwork and enhance efficiency.
+
+User-Friendly Interface:
+Create accessible mobile and web applications for citizens to interact with traffic services. Include dashboards for traffic authorities to monitor, manage, and optimize traffic operations efficiently.
 
 *Technical Stack:*  
 
@@ -41,7 +54,7 @@ Here's a glimpse into my journey:
 
 ## 🌐 *Find Me Online*
 
-- [GitHub](https://github.com/Samruddi11/portfolioo.github.io)
+- [GitHub](https://github.com/shrushti16/portfolioo.github.io)
 - [LinkedIn](https://www.linkedin.com/in/shrushti-hulbutte-64336630b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 ## Portfolio Highlights
